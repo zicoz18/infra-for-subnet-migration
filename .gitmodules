@@ -7,3 +7,6 @@
 [submodule "indexer-api"]
 	path = indexer-api
 	url = https://github.com/zicoz18/COMP491-Indexer-API.git
+[submodule "bridge"]
+	path = bridge
+	url = https://github.com/zicoz18/COMP491-Bridge.git
