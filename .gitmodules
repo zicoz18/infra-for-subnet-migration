@@ -1,0 +1,3 @@
+[submodule "subnet"]
+	path = subnet
+	url = https://github.com/zicoz18/COMP491-subnet.git
