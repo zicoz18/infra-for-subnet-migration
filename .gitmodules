@@ -13,3 +13,6 @@
 [submodule "bridge-website"]
 	path = bridge-website
 	url = https://github.com/dulgertolgay/COMP491-Bridge.git
+[submodule "block-explorer"]
+	path = block-explorer
+	url = https://github.com/dulgertolgay/COMP491-block-explorer.git
