@@ -1,3 +1,6 @@
 [submodule "subnet"]
 	path = subnet
 	url = https://github.com/zicoz18/COMP491-subnet.git
+[submodule "indexer"]
+	path = indexer
+	url = https://github.com/zicoz18/COMP491-Indexer.git
