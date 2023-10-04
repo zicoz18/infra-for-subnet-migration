@@ -16,3 +16,6 @@
 [submodule "block-explorer"]
 	path = block-explorer
 	url = https://github.com/dulgertolgay/COMP491-block-explorer.git
+[submodule "mobile-dapp"]
+	path = mobile-dapp
+	url = https://github.com/ardaqwe35/COMP491_mobile_frontend.git
