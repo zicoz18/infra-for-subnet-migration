@@ -10,3 +10,6 @@
 [submodule "bridge"]
 	path = bridge
 	url = https://github.com/zicoz18/COMP491-Bridge.git
+[submodule "bridge-website"]
+	path = bridge-website
+	url = https://github.com/dulgertolgay/COMP491-Bridge.git
